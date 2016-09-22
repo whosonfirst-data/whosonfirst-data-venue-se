@@ -1,0 +1,67 @@
+{
+  "id": 1108702121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0523253,59.3326694,18.0523253,59.3326694",
+    "geom:latitude":59.332669,
+    "geom:longitude":18.052325,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kungsbron 1, Building F, Floor 7",
+    "sg:city":"STOCKHOLM",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"SE-111 22 ",
+    "sg:website":"http://www.edgeware.tv/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xP5jUaBIfEedvZFjgjk3F_59.332669_18.052325@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570848,
+    "wof:geomhash":"9365e377c4881664a7b2fdcc104644d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108702121
+        }
+    ],
+    "wof:id":1108702121,
+    "wof:lastmodified":1474570848,
+    "wof:name":"Edgeware",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0523253,
+    59.3326694,
+    18.0523253,
+    59.3326694
+],
+  "geometry": {"coordinates":[18.0523253,59.3326694],"type":"Point"}
+}

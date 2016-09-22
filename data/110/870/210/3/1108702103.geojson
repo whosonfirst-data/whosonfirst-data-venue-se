@@ -1,0 +1,82 @@
+{
+  "id": 1108702103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0602981,59.3482426,18.0602981,59.3482426",
+    "geom:latitude":59.348243,
+    "geom:longitude":18.060298,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"1412 Frejgatan 13",
+    "sg:city":"Stockholm ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"114 79",
+    "sg:tags":[
+        "translation-services",
+        "translation-company",
+        "localisation",
+        "translation-agency",
+        "transcreation",
+        "first-draft-translation"
+    ],
+    "sg:website":"http://www.lingo24.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905263,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T7Hk4L2vgw8tc3B50oThi_59.348243_18.060298@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"dbbf6877ae1b493c5103aa25894034f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85905263,
+            "region_id":85688429,
+            "venue_id":1108702103
+        }
+    ],
+    "wof:id":1108702103,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Lingo24",
+    "wof:parent_id":85905263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translation-services",
+        "translation-company",
+        "localisation",
+        "translation-agency",
+        "transcreation",
+        "first-draft-translation"
+    ]
+},
+  "bbox": [
+    18.0602981,
+    59.3482426,
+    18.0602981,
+    59.3482426
+],
+  "geometry": {"coordinates":[18.0602981,59.3482426],"type":"Point"}
+}

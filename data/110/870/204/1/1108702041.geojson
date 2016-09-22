@@ -1,0 +1,61 @@
+{
+  "id": 1108702041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.2930417,56.1997795,15.2930417,56.1997795",
+    "geom:latitude":56.199779,
+    "geom:longitude":15.293042,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Folkparksv\u00e4gen 15",
+    "sg:city":"Ronneby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37240",
+    "sg:tags":[
+        "web-developing",
+        "web-services",
+        "freelance"
+    ],
+    "sg:website":"http://www.dun.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TFIg66mdACc8yZoBVJiUw_56.199779_15.293042@1308163239"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570834,
+    "wof:geomhash":"676bce9333ce5533122d4e460fefaae6",
+    "wof:hierarchy":[],
+    "wof:id":1108702041,
+    "wof:lastmodified":1474570834,
+    "wof:name":"DuN.se",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-developing",
+        "web-services",
+        "freelance"
+    ]
+},
+  "bbox": [
+    15.2930417,
+    56.1997795,
+    15.2930417,
+    56.1997795
+],
+  "geometry": {"coordinates":[15.2930417,56.1997795],"type":"Point"}
+}

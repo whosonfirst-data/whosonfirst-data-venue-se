@@ -1,0 +1,76 @@
+{
+  "id": 1108702087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.037611,59.345553,18.037611,59.345553",
+    "geom:latitude":59.345553,
+    "geom:longitude":18.037611,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hudiksvallsgatan 8",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"113 30",
+    "sg:tags":[
+        "dolls",
+        "mature-tweens",
+        "girls"
+    ],
+    "sg:website":"http://www.stardoll.com/en",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905583,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPYpreEUoOJdL6ze8lRsk_59.345553_18.037611@1308163238"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"f97eba16bcd7e4ceceaf31d0c6e3ae4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85905583,
+            "region_id":85688429,
+            "venue_id":1108702087
+        }
+    ],
+    "wof:id":1108702087,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Stardoll",
+    "wof:parent_id":85905583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dolls",
+        "mature-tweens",
+        "girls"
+    ]
+},
+  "bbox": [
+    18.037611,
+    59.345553,
+    18.037611,
+    59.345553
+],
+  "geometry": {"coordinates":[18.037611,59.345553],"type":"Point"}
+}

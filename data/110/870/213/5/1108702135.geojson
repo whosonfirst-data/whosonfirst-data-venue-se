@@ -1,0 +1,67 @@
+{
+  "id": 1108702135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0667271,59.3095008,18.0667271,59.3095008",
+    "geom:latitude":59.309501,
+    "geom:longitude":18.066727,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blekingegatan 14G",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"11856",
+    "sg:website":"http://www.looklet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902481,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xL6xiS2kW0DEYEkU96Pmv_59.309501_18.066727@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570849,
+    "wof:geomhash":"d3c46d99be37a91b8c8ebd63222b7d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902481,
+            "region_id":85688429,
+            "venue_id":1108702135
+        }
+    ],
+    "wof:id":1108702135,
+    "wof:lastmodified":1474570849,
+    "wof:name":"Looklet.com",
+    "wof:parent_id":85902481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0667271,
+    59.3095008,
+    18.0667271,
+    59.3095008
+],
+  "geometry": {"coordinates":[18.0667271,59.3095008],"type":"Point"}
+}

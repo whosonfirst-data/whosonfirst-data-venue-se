@@ -1,0 +1,66 @@
+{
+  "id": 1108702095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0200968,59.351153,18.0200968,59.351153",
+    "geom:latitude":59.351153,
+    "geom:longitude":18.020097,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fogdevreten 2, Solna",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"S-171 77",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905213,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eGP40OJC8Is7pjdaVw6aN_59.351153_18.020097@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"49b64a5e08afe108caaf5e0098b9daab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85905213,
+            "region_id":85688429,
+            "venue_id":1108702095
+        }
+    ],
+    "wof:id":1108702095,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Karolinska",
+    "wof:parent_id":85905213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0200968,
+    59.351153,
+    18.0200968,
+    59.351153
+],
+  "geometry": {"coordinates":[18.0200968,59.351153],"type":"Point"}
+}

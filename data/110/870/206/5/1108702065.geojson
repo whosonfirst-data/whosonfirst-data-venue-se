@@ -1,0 +1,67 @@
+{
+  "id": 1108702065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.56605,58.3946484,15.56605,58.3946484",
+    "geom:latitude":58.394648,
+    "geom:longitude":15.56605,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teknikringen 4c",
+    "sg:city":"Link\u00f6ping",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"58334 ",
+    "sg:website":"http://www.netadmin.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902581,
+        102191581,
+        85633789,
+        101752291,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lg7eGES2of8UgPM1gUygv_58.394648_15.566050@1308163240"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570835,
+    "wof:geomhash":"5b7a929d146ac1c744639bc8e56d3028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752291,
+            "neighbourhood_id":85902581,
+            "region_id":85688409,
+            "venue_id":1108702065
+        }
+    ],
+    "wof:id":1108702065,
+    "wof:lastmodified":1474570835,
+    "wof:name":"Netadmin",
+    "wof:parent_id":85902581,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56605,
+    58.3946484,
+    15.56605,
+    58.3946484
+],
+  "geometry": {"coordinates":[15.56605,58.3946484],"type":"Point"}
+}

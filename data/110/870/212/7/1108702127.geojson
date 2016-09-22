@@ -1,0 +1,67 @@
+{
+  "id": 1108702127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0571198,59.3339908,18.0571198,59.3339908",
+    "geom:latitude":59.333991,
+    "geom:longitude":18.05712,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kungsgatan 66, 4 tr",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"111 22",
+    "sg:website":"http://www.wiral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_044IvzYLPYJ7NJSXiwuL8p_59.333991_18.057120@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570848,
+    "wof:geomhash":"26c77bfd3ea8187e0fea498e5fa292c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108702127
+        }
+    ],
+    "wof:id":1108702127,
+    "wof:lastmodified":1474570848,
+    "wof:name":"Wiral Internet Group",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0571198,
+    59.3339908,
+    18.0571198,
+    59.3339908
+],
+  "geometry": {"coordinates":[18.0571198,59.3339908],"type":"Point"}
+}

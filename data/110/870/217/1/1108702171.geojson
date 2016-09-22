@@ -1,0 +1,67 @@
+{
+  "id": 1108702171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0029496,57.7203498,12.0029496,57.7203498",
+    "geom:latitude":57.72035,
+    "geom:longitude":12.00295,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svangatan 2A",
+    "sg:city":"G\u00f6teborg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"S-416 68",
+    "sg:website":"http://www.penboost.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902001,
+        102191581,
+        85633789,
+        101752295,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32DoXqsaCYov24z11OMRDK_57.720350_12.002950@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570850,
+    "wof:geomhash":"82694eabcb4a1176b66d2bd2a97ef5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752295,
+            "neighbourhood_id":85902001,
+            "region_id":85688411,
+            "venue_id":1108702171
+        }
+    ],
+    "wof:id":1108702171,
+    "wof:lastmodified":1474570850,
+    "wof:name":"Penboost",
+    "wof:parent_id":85902001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0029496,
+    57.7203498,
+    12.0029496,
+    57.7203498
+],
+  "geometry": {"coordinates":[12.0029496,57.7203498],"type":"Point"}
+}

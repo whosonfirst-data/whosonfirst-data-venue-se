@@ -1,0 +1,52 @@
+{
+  "id": 1108702091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"13.2170029,55.714683,13.2170029,55.714683",
+    "geom:latitude":55.714683,
+    "geom:longitude":13.217003,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Scheelev\u00e4gen 17 Ideon Science Park",
+    "sg:city":"Lund",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"223 70 ",
+    "sg:website":"http://www.conveneer.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NFPlONigBYSMHCRIYmP04_55.714683_13.217003@1308163240"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"9e3df4efd8d41294e1bfa8ad9fb84a1e",
+    "wof:hierarchy":[],
+    "wof:id":1108702091,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Conveneer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2170029,
+    55.714683,
+    13.2170029,
+    55.714683
+],
+  "geometry": {"coordinates":[13.2170029,55.714683],"type":"Point"}
+}

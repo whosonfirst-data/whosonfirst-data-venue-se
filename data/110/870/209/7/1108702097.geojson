@@ -1,0 +1,52 @@
+{
+  "id": 1108702097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.8947672,59.6121259,17.8947672,59.6121259",
+    "geom:latitude":59.612126,
+    "geom:longitude":17.894767,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Box 3205",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"103 64",
+    "sg:website":"http://www.yooba.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtGWDswIQtQGuoUheWRiD_59.612126_17.894767@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"69399fc05fb4b1d19559abbf7d508c3a",
+    "wof:hierarchy":[],
+    "wof:id":1108702097,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Yooba",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8947672,
+    59.6121259,
+    17.8947672,
+    59.6121259
+],
+  "geometry": {"coordinates":[17.8947672,59.6121259],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108702039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.986383,57.696981,11.986383,57.696981",
+    "geom:latitude":57.696981,
+    "geom:longitude":11.986383,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindholmspiren 5A",
+    "sg:city":"Gothenburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"S-417 56",
+    "sg:tags":[
+        "restaurant",
+        "booking",
+        "reservation",
+        "smart-suggestions",
+        "ai",
+        "learning-search-engine-for-tables",
+        "seedcamp",
+        "seedcamp-2007"
+    ],
+    "sg:website":"http://www.tablefinder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905241,
+        102191581,
+        85633789,
+        101752295,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FIqRcgmd6Y5qNEhkcFdLd_57.696981_11.986383@1308163237"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570834,
+    "wof:geomhash":"d5c253f99f8cf1a5a64e7e2d00a5c1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752295,
+            "neighbourhood_id":85905241,
+            "region_id":85688411,
+            "venue_id":1108702039
+        }
+    ],
+    "wof:id":1108702039,
+    "wof:lastmodified":1474570834,
+    "wof:name":"Tablefinder",
+    "wof:parent_id":85905241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant",
+        "booking",
+        "reservation",
+        "smart-suggestions",
+        "ai",
+        "learning-search-engine-for-tables",
+        "seedcamp",
+        "seedcamp-2007"
+    ]
+},
+  "bbox": [
+    11.986383,
+    57.696981,
+    11.986383,
+    57.696981
+],
+  "geometry": {"coordinates":[11.986383,57.696981],"type":"Point"}
+}

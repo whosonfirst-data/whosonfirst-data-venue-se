@@ -1,0 +1,84 @@
+{
+  "id": 1108702055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.6241345,58.4119224,15.6241345,58.4119224",
+    "geom:latitude":58.411922,
+    "geom:longitude":15.624135,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"St Larsgatan 22A",
+    "sg:city":"Link\u00f6ping",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"582 24",
+    "sg:tags":[
+        "editorial",
+        "editorial-systems",
+        "cms",
+        "editorial-software",
+        "media",
+        "publishing",
+        "multi-channel"
+    ],
+    "sg:website":"http://www.roxen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902207,
+        102191581,
+        85633789,
+        101752291,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5udohHyuiVg2ERgr8yN5Pm_58.411922_15.624135@1308163239"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570835,
+    "wof:geomhash":"57db1ceee9ddac05822af7670c855185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752291,
+            "neighbourhood_id":85902207,
+            "region_id":85688409,
+            "venue_id":1108702055
+        }
+    ],
+    "wof:id":1108702055,
+    "wof:lastmodified":1474570835,
+    "wof:name":"Roxen Internet Software",
+    "wof:parent_id":85902207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "editorial",
+        "editorial-systems",
+        "cms",
+        "editorial-software",
+        "media",
+        "publishing",
+        "multi-channel"
+    ]
+},
+  "bbox": [
+    15.6241345,
+    58.4119224,
+    15.6241345,
+    58.4119224
+],
+  "geometry": {"coordinates":[15.6241345,58.4119224],"type":"Point"}
+}

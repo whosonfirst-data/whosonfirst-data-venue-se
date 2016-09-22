@@ -1,0 +1,67 @@
+{
+  "id": 1108702067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.9514708,59.4074153,17.9514708,59.4074153",
+    "geom:latitude":59.407415,
+    "geom:longitude":17.951471,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torshamnsgatan 39",
+    "sg:city":"Kista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"SE-164 40",
+    "sg:website":"http://www.nanoradio.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902231,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EukHGRTflKUHFENhJG4iI_59.407415_17.951471@1308163240"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570836,
+    "wof:geomhash":"078bf58a0b4a9bc7745c9291a8720cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902231,
+            "region_id":85688429,
+            "venue_id":1108702067
+        }
+    ],
+    "wof:id":1108702067,
+    "wof:lastmodified":1474570836,
+    "wof:name":"Nanoradio",
+    "wof:parent_id":85902231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9514708,
+    59.4074153,
+    17.9514708,
+    59.4074153
+],
+  "geometry": {"coordinates":[17.9514708,59.4074153],"type":"Point"}
+}

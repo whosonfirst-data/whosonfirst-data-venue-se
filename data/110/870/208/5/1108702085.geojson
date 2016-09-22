@@ -1,0 +1,78 @@
+{
+  "id": 1108702085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.08897,59.335897,18.08897,59.335897",
+    "geom:latitude":59.335897,
+    "geom:longitude":18.08897,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumshornsgatan 9",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"11460",
+    "sg:tags":[
+        "photo",
+        "community",
+        "software",
+        "sharing"
+    ],
+    "sg:website":"http://jalbum.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902375,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4atfnS9EOqWXq0RXxWLg2D_59.335897_18.088970@1308163238"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"6dfd7f2e943bd839635cc93bd32da959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902375,
+            "region_id":85688429,
+            "venue_id":1108702085
+        }
+    ],
+    "wof:id":1108702085,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Jalbum",
+    "wof:parent_id":85902375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "community",
+        "software",
+        "sharing"
+    ]
+},
+  "bbox": [
+    18.08897,
+    59.335897,
+    18.08897,
+    59.335897
+],
+  "geometry": {"coordinates":[18.08897,59.335897],"type":"Point"}
+}

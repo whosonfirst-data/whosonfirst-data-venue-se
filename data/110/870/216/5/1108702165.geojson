@@ -1,0 +1,52 @@
+{
+  "id": 1108702165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.8248671,56.8559617,14.8248671,56.8559617",
+    "geom:latitude":56.855962,
+    "geom:longitude":14.824867,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Framtidsv\u00e4gen 10A Vid\u00e9um Science Park",
+    "sg:city":"V\u00e4xj\u00f6",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"351 06",
+    "sg:website":"http://www.fortnox.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39IKBn8rBD4D1uH3E9EO72_56.855962_14.824867@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570850,
+    "wof:geomhash":"af37ecb4f143279fbd75afe913c4e438",
+    "wof:hierarchy":[],
+    "wof:id":1108702165,
+    "wof:lastmodified":1474570850,
+    "wof:name":"Fortnox",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8248671,
+    56.8559617,
+    14.8248671,
+    56.8559617
+],
+  "geometry": {"coordinates":[14.8248671,56.8559617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108702123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.5595393,59.617364,16.5595393,59.617364",
+    "geom:latitude":59.617364,
+    "geom:longitude":16.559539,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hylsv\u00e4gen 4",
+    "sg:city":"V\u00e4ster\u00e5s",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"72130",
+    "sg:tags":[
+        "restaurant",
+        "restaurang",
+        "tourist",
+        "eat-out",
+        "food",
+        "lunch",
+        "dinner",
+        "menu"
+    ],
+    "sg:website":"http://gastrogate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CRIXPVnNUpSrOTIrfycbJ_59.617364_16.559539@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570848,
+    "wof:geomhash":"117936431a4ced580530364b68595d67",
+    "wof:hierarchy":[],
+    "wof:id":1108702123,
+    "wof:lastmodified":1474570848,
+    "wof:name":"Gastrogate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant",
+        "restaurang",
+        "tourist",
+        "eat-out",
+        "food",
+        "lunch",
+        "dinner",
+        "menu"
+    ]
+},
+  "bbox": [
+    16.5595393,
+    59.617364,
+    16.5595393,
+    59.617364
+],
+  "geometry": {"coordinates":[16.5595393,59.617364],"type":"Point"}
+}

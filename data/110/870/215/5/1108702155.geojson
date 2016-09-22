@@ -1,0 +1,84 @@
+{
+  "id": 1108702155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0797747,59.2942989,18.0797747,59.2942989",
+    "geom:latitude":59.294299,
+    "geom:longitude":18.079775,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arenav\u00e4gen 47 Block 2, 7th floor",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"S-121 77",
+    "sg:tags":[
+        "wimax",
+        "wi-fi",
+        "lte",
+        "wireless",
+        "saas",
+        "aaa",
+        "internet"
+    ],
+    "sg:website":"http://www.aptilo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902209,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2md1m6LsAf4l6zCGDXd72y_59.294299_18.079775@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570849,
+    "wof:geomhash":"ffc2689bce633ace8845b9a42e8cc19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902209,
+            "region_id":85688429,
+            "venue_id":1108702155
+        }
+    ],
+    "wof:id":1108702155,
+    "wof:lastmodified":1474570849,
+    "wof:name":"Aptilo Networks",
+    "wof:parent_id":85902209,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wimax",
+        "wi-fi",
+        "lte",
+        "wireless",
+        "saas",
+        "aaa",
+        "internet"
+    ]
+},
+  "bbox": [
+    18.0797747,
+    59.2942989,
+    18.0797747,
+    59.2942989
+],
+  "geometry": {"coordinates":[18.0797747,59.2942989],"type":"Point"}
+}

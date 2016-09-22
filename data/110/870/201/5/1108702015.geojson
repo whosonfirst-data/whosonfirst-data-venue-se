@@ -1,0 +1,78 @@
+{
+  "id": 1108702015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0593461,59.3345588,18.0593461,59.3345588",
+    "geom:latitude":59.334559,
+    "geom:longitude":18.059346,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kungsgatan 56 P.O. Box 7222",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10389",
+    "sg:tags":[
+        "news",
+        "search",
+        "aggreagator",
+        "microsoftstartupaccelerator"
+    ],
+    "sg:website":"http://www.silobreaker.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZf7SQCiqgZoynN393BG5_59.334559_18.059346@1308163237"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570833,
+    "wof:geomhash":"9e6050d27fe864b19ee8420fbd79f622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108702015
+        }
+    ],
+    "wof:id":1108702015,
+    "wof:lastmodified":1474570833,
+    "wof:name":"Silobreaker",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "news",
+        "search",
+        "aggreagator",
+        "microsoftstartupaccelerator"
+    ]
+},
+  "bbox": [
+    18.0593461,
+    59.3345588,
+    18.0593461,
+    59.3345588
+],
+  "geometry": {"coordinates":[18.0593461,59.3345588],"type":"Point"}
+}

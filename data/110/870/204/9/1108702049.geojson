@@ -1,0 +1,67 @@
+{
+  "id": 1108702049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0580765,59.3369746,18.0580765,59.3369746",
+    "geom:latitude":59.336975,
+    "geom:longitude":18.058076,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drottninggatan 92-94",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"SE-111 36 ",
+    "sg:website":"http://www.kitd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rPXEUFgPtYXolOuGtaNBj_59.336975_18.058076@1308163236"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570835,
+    "wof:geomhash":"81a270af904a58ba8c4a3c7b42a0584c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108702049
+        }
+    ],
+    "wof:id":1108702049,
+    "wof:lastmodified":1474570835,
+    "wof:name":"KIT digital",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0580765,
+    59.3369746,
+    18.0580765,
+    59.3369746
+],
+  "geometry": {"coordinates":[18.0580765,59.3369746],"type":"Point"}
+}

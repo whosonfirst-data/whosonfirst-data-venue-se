@@ -1,0 +1,72 @@
+{
+  "id": 1108702019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.077451,59.336527,18.077451,59.336527",
+    "geom:latitude":59.336527,
+    "geom:longitude":18.077451,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Majorsgatan 4",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"SE-114 37",
+    "sg:tags":[
+        "webos"
+    ],
+    "sg:website":"http://www.cloudo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902375,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GibspD3wwire43CFoC0fl_59.336527_18.077451@1308163237"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570833,
+    "wof:geomhash":"dd7a7f8db071b0d49f76e76dd99337ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902375,
+            "region_id":85688429,
+            "venue_id":1108702019
+        }
+    ],
+    "wof:id":1108702019,
+    "wof:lastmodified":1474570833,
+    "wof:name":"Cloudo",
+    "wof:parent_id":85902375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "webos"
+    ]
+},
+  "bbox": [
+    18.077451,
+    59.336527,
+    18.077451,
+    59.336527
+],
+  "geometry": {"coordinates":[18.077451,59.336527],"type":"Point"}
+}

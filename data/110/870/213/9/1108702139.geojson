@@ -1,0 +1,65 @@
+{
+  "id": 1108702139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.9716018,59.5068147,14.9716018,59.5068147",
+    "geom:latitude":59.506815,
+    "geom:longitude":14.971602,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kr\u00e4ggav\u00e4gen 40",
+    "sg:city":"B\u00e5lsta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"74693",
+    "sg:tags":[
+        "youth-to-youth-publishing",
+        "young-authors",
+        "poets",
+        "novelists",
+        "authors"
+    ],
+    "sg:website":"http://www.bombadilpublishing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13kpIATEbvN76lfQUPQdWI_59.506815_14.971602@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570849,
+    "wof:geomhash":"c2963dca5d70716b5a6f98d628178e4e",
+    "wof:hierarchy":[],
+    "wof:id":1108702139,
+    "wof:lastmodified":1474570849,
+    "wof:name":"Bombadil Publishing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth-to-youth-publishing",
+        "young-authors",
+        "poets",
+        "novelists",
+        "authors"
+    ]
+},
+  "bbox": [
+    14.9716018,
+    59.5068147,
+    14.9716018,
+    59.5068147
+],
+  "geometry": {"coordinates":[14.9716018,59.5068147],"type":"Point"}
+}

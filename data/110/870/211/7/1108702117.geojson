@@ -1,0 +1,67 @@
+{
+  "id": 1108702117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.8298019,59.4181143,17.8298019,59.4181143",
+    "geom:latitude":59.418114,
+    "geom:longitude":17.829802,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"P.O. Box 595  Bruttov\u00e4gen 1",
+    "sg:city":"J\u00e4rf\u00e4lla ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"SE-175 26",
+    "sg:website":"http://www.silexmicrosystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902203,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BzUBkpL29UjuqTjmwOuSg_59.418114_17.829802@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570848,
+    "wof:geomhash":"ff8f6ecbefa5df45e0968ab6be85780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902203,
+            "region_id":85688429,
+            "venue_id":1108702117
+        }
+    ],
+    "wof:id":1108702117,
+    "wof:lastmodified":1474570848,
+    "wof:name":"Silex Microsystems",
+    "wof:parent_id":85902203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8298019,
+    59.4181143,
+    17.8298019,
+    59.4181143
+],
+  "geometry": {"coordinates":[17.8298019,59.4181143],"type":"Point"}
+}

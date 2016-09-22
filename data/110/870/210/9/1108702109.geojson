@@ -1,0 +1,88 @@
+{
+  "id": 1108702109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0418072,59.4007204,18.0418072,59.4007204",
+    "geom:latitude":59.40072,
+    "geom:longitude":18.041807,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karlsrov\u00e4gen 2D Box 544",
+    "sg:city":"Danderyd",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"182 15",
+    "sg:tags":[
+        "it",
+        "information-technology",
+        "consulting",
+        "services",
+        "software",
+        "management",
+        "development",
+        "agile",
+        "scrum"
+    ],
+    "sg:website":"http://www.steria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905095,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rrxzz1J2S4tfgFSThXwZX_59.400720_18.041807@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570843,
+    "wof:geomhash":"3705ee414f8b70aab405a6e5da5d276b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85905095,
+            "region_id":85688429,
+            "venue_id":1108702109
+        }
+    ],
+    "wof:id":1108702109,
+    "wof:lastmodified":1474570843,
+    "wof:name":"Steria",
+    "wof:parent_id":85905095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "it",
+        "information-technology",
+        "consulting",
+        "services",
+        "software",
+        "management",
+        "development",
+        "agile",
+        "scrum"
+    ]
+},
+  "bbox": [
+    18.0418072,
+    59.4007204,
+    18.0418072,
+    59.4007204
+],
+  "geometry": {"coordinates":[18.0418072,59.4007204],"type":"Point"}
+}

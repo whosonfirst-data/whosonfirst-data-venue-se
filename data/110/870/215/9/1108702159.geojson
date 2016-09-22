@@ -1,0 +1,67 @@
+{
+  "id": 1108702159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.047889,59.3507816,18.047889,59.3507816",
+    "geom:latitude":59.350782,
+    "geom:longitude":18.047889,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sveavagen 168",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"105 99",
+    "sg:website":"http://www.bisnode.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902593,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29PTczES1slIfMBtNHdDhW_59.350782_18.047889@1308163242"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570850,
+    "wof:geomhash":"981a85ca2c95720c14297dbb04532ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902593,
+            "region_id":85688429,
+            "venue_id":1108702159
+        }
+    ],
+    "wof:id":1108702159,
+    "wof:lastmodified":1474570850,
+    "wof:name":"Bisnode",
+    "wof:parent_id":85902593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.047889,
+    59.3507816,
+    18.047889,
+    59.3507816
+],
+  "geometry": {"coordinates":[18.047889,59.3507816],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108702051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0198938,57.7209005,12.0198938,57.7209005",
+    "geom:latitude":57.7209,
+    "geom:longitude":12.019894,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frodingsgatan 6a",
+    "sg:city":"Goteborg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"416 72",
+    "sg:tags":[
+        "shopping",
+        "price-comprisons",
+        "reviews",
+        "electronics"
+    ],
+    "sg:website":"http://www.testwinner.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902217,
+        102191581,
+        85633789,
+        101752295,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ikeADZMenolIFH0ytP9a7_57.720900_12.019894@1308163239"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570835,
+    "wof:geomhash":"ed6c2d023b554baffcaa9ec60d580d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752295,
+            "neighbourhood_id":85902217,
+            "region_id":85688411,
+            "venue_id":1108702051
+        }
+    ],
+    "wof:id":1108702051,
+    "wof:lastmodified":1474570835,
+    "wof:name":"Testvinnare i Sverige",
+    "wof:parent_id":85902217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shopping",
+        "price-comprisons",
+        "reviews",
+        "electronics"
+    ]
+},
+  "bbox": [
+    12.0198938,
+    57.7209005,
+    12.0198938,
+    57.7209005
+],
+  "geometry": {"coordinates":[12.0198938,57.7209005],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1108702057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0573003,59.3421479,18.0573003,59.3421479",
+    "geom:latitude":59.342148,
+    "geom:longitude":18.0573,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sveav\u00e4gen 98, 5 tr.",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"113 50",
+    "sg:tags":[
+        "editorial",
+        "editorial-systems",
+        "cms",
+        "editorial-software",
+        "media",
+        "publishing",
+        "multi-channel"
+    ],
+    "sg:website":"http://www.roxen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905583,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48abu5x86LfxtbbhmKJC0n_59.342148_18.057300@1308163239"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570835,
+    "wof:geomhash":"77449a19be6c0f50841710122775bf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85905583,
+            "region_id":85688429,
+            "venue_id":1108702057
+        }
+    ],
+    "wof:id":1108702057,
+    "wof:lastmodified":1474570835,
+    "wof:name":"Roxen Internet Software",
+    "wof:parent_id":85905583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "editorial",
+        "editorial-systems",
+        "cms",
+        "editorial-software",
+        "media",
+        "publishing",
+        "multi-channel"
+    ]
+},
+  "bbox": [
+    18.0573003,
+    59.3421479,
+    18.0573003,
+    59.3421479
+],
+  "geometry": {"coordinates":[18.0573003,59.3421479],"type":"Point"}
+}

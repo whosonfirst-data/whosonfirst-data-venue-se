@@ -1,0 +1,76 @@
+{
+  "id": 1108702105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.5992332,63.1680749,14.5992332,63.1680749",
+    "geom:latitude":63.168075,
+    "geom:longitude":14.599233,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d6neslingan 11",
+    "sg:city":"Fr\u00f6s\u00f6n",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83251",
+    "sg:tags":[
+        "streaming",
+        "webtv",
+        "online-video"
+    ],
+    "sg:website":"http://www.absoft.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902357,
+        102191581,
+        85633789,
+        101839543,
+        85688461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DiLYuqRKJaG6uyPqXURqC_63.168075_14.599233@1308163241"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570842,
+    "wof:geomhash":"e70576dfb9097adef86fbce548a9bfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101839543,
+            "neighbourhood_id":85902357,
+            "region_id":85688461,
+            "venue_id":1108702105
+        }
+    ],
+    "wof:id":1108702105,
+    "wof:lastmodified":1474570842,
+    "wof:name":"Absoft",
+    "wof:parent_id":85902357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "streaming",
+        "webtv",
+        "online-video"
+    ]
+},
+  "bbox": [
+    14.5992332,
+    63.1680749,
+    14.5992332,
+    63.1680749
+],
+  "geometry": {"coordinates":[14.5992332,63.1680749],"type":"Point"}
+}

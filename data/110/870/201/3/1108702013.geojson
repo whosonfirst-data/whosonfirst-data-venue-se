@@ -1,0 +1,81 @@
+{
+  "id": 1108702013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0614125,59.3412176,18.0614125,59.3412176",
+    "geom:latitude":59.341218,
+    "geom:longitude":18.061412,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Radmansgatan 42",
+    "sg:city":"Stockholm'''",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"114 99",
+    "sg:tags":[
+        "piracy",
+        "video",
+        "tv",
+        "movies",
+        "anime",
+        "documentaries"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TthlSJ7fXdNpalBpT9Z2B_59.341218_18.061412@1308163237"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570833,
+    "wof:geomhash":"05892bf616627452db7a29805a785eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108702013
+        }
+    ],
+    "wof:id":1108702013,
+    "wof:lastmodified":1474570833,
+    "wof:name":"TV Shack",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piracy",
+        "video",
+        "tv",
+        "movies",
+        "anime",
+        "documentaries"
+    ]
+},
+  "bbox": [
+    18.0614125,
+    59.3412176,
+    18.0614125,
+    59.3412176
+],
+  "geometry": {"coordinates":[18.0614125,59.3412176],"type":"Point"}
+}

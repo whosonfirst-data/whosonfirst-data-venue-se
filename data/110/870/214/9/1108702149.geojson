@@ -1,0 +1,67 @@
+{
+  "id": 1108702149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.042057,59.378282,18.042057,59.378282",
+    "geom:latitude":59.378282,
+    "geom:longitude":18.042057,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ripstigen 1",
+    "sg:city":"Solna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"17074",
+    "sg:website":"http://www.extrakoll.se",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902015,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REZWo8hTadJJA5fVqxycC_59.378282_18.042057@1308163239"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570849,
+    "wof:geomhash":"c2ce4448b5d546a195599792aaeabe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902015,
+            "region_id":85688429,
+            "venue_id":1108702149
+        }
+    ],
+    "wof:id":1108702149,
+    "wof:lastmodified":1474570849,
+    "wof:name":"Extrakoll ",
+    "wof:parent_id":85902015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.042057,
+    59.378282,
+    18.042057,
+    59.378282
+],
+  "geometry": {"coordinates":[18.042057,59.378282],"type":"Point"}
+}

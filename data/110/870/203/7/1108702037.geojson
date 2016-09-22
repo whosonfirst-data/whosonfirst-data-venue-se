@@ -1,0 +1,52 @@
+{
+  "id": 1108702037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.796875,62.929157,17.796875,62.929157",
+    "geom:latitude":62.929157,
+    "geom:longitude":17.796875,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klementsv 10",
+    "sg:city":"Kramfors",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"87231",
+    "sg:website":"http://www.linkedcells.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SIRi2XivCUXPNZrWHKeth_62.929157_17.796875@1308163237"
+    },
+    "wof:country":"SE",
+    "wof:created":1474570834,
+    "wof:geomhash":"f2ebee49057fea21d8bf3898f77c9dc3",
+    "wof:hierarchy":[],
+    "wof:id":1108702037,
+    "wof:lastmodified":1474570834,
+    "wof:name":"LinkedCells",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-se",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.796875,
+    62.929157,
+    17.796875,
+    62.929157
+],
+  "geometry": {"coordinates":[17.796875,62.929157],"type":"Point"}
+}
